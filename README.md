@@ -1,1 +1,6 @@
-# IS415-G3
+# Deliverables
+
+1. Proposal Website
+2. Shiny Application
+3. Research Paper
+4. Poster
